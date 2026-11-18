@@ -41,3 +41,11 @@ Cisco Packet Tracer
 
 ## Author
 Beenaamoni Ajay
+
+
+## Project Resources
+
+- [Technical Documentation](Documentation/Enterprise_Network_Design_Report.md)
+- [Packet Tracer Simulation](Packet-Tracer/Enterprise_Network_Design_Hyderabad_Chennai_Bangalore.pkt)
+- [Project Screenshots](Screenshots/)
+
