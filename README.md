@@ -9,6 +9,10 @@ Designed and implemented a multi-branch enterprise network using Cisco Packet Tr
 - Bangalore Branch Office
 - ISP Network
 
+## Network Topology Diagram
+
+![Enterprise Network Topology](Screenshots/Final%20Topology.jpeg)
+
 ## Technologies Implemented
 - Cisco Routers and Layer 2 Switches
 - VLANs and 802.1Q Trunking
